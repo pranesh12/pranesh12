@@ -7,4 +7,5 @@
 - 💬 Ask me about  React or any related stuff
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100010448315616)
 - 😄 Pronouns:  He/him
+- <img src="https://github-readme-stats.vercel.app/api?username=pranesh12&theme=tokyonight&show_icons=true)">
 
