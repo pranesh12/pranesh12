@@ -1,6 +1,6 @@
 ### Hi I'm Pranesh Chakma 👋
 
-- 🔭 I’m currently looking for a job/intern front-end/backend   
+- 🔭 I’m working as a web developer at Skyland Web  
 - 👯 I’m looking to collaborate on  React.js,express.js
 - 🤔 I’m looking for help with  Data Structure and Algorithm
 - 💬 Ask me about  React or any related stuff
