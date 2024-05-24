@@ -7,5 +7,5 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100010448315616)
 - 😄 Pronouns:  He/him
 - ⚡ Fun fact: I love to play video games, travel, exercise
- <img src="https://github-readme-stats.vercel.app/api?username=pranesh12&theme=tokyonight&show_icons=true)">
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/praneshck7?theme=dark)
 
