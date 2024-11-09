@@ -1,6 +1,6 @@
 ### Hi I'm Pranesh Chakma 👋
 
-- 🔭 I’m working as a web developer at Skyland Web  
+- 🔭
 - 👯 Learning mobile app development(Flutter)
 - 🤔 I’m looking for help with  Data Structure and Algorithm
 - 💬 Ask me about  React or any related stuff
